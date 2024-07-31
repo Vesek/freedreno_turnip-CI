@@ -16,7 +16,6 @@ patches=(
 )
 experimental_patches=(
 	"More-a7xx-regs;merge_requests/28713;"
-	"Support-a735;merge_requests/30379;" # In a usable state, some corruption maybe present
 #	"FSDT-support;merge_requests/28485;"
 # 	"disable-gmem;commit/1ba6ccc51a4483a6d622c91fc43685150922dcdf;--reverse" # Force sysmem on a7xx
 )
